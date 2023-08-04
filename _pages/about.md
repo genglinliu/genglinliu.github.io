@@ -31,10 +31,10 @@ Publications
 
 - Paxion: Patching Action Knowledge in Video-Language Foundation Models \
   Zhenhailong Wang, Ansel Blume, Sha Li, **Genglin Liu**, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji \
-  Preprint [Paper](https://arxiv.org/abs/2305.10683)
+  Preprint [[Paper](https://arxiv.org/abs/2305.10683)]
 - SemEval-2023 Task 3: An Augmented Multilingual NLI Approach Towards Online News Persuasion Techniques Detection. \
   **Genglin Liu**, Yi R. Fung, Heng Ji \
-  ACL SemEval 2023 [paper](https://aclanthology.org/2023.semeval-1.227.pdf)
+  ACL SemEval 2023 [[paper](https://aclanthology.org/2023.semeval-1.227.pdf)]
 - Schematic Event Representation: An Empirical Approach to Hierarchical Schema Curation \
   Reece Suchocki, Mary Lynn Martin, **Genglin Liu**, Martha Palmer, Susan Brown \
   In submission to EMNLP 2023
@@ -43,7 +43,7 @@ Publications
   In submission to the Journal of Neuroscience 2023
 - Demystifying The Spectral Bias of Overparameterized Deep Neural Networks \
   **Genglin Liu**, Yulong Lu \
-  UConn REU Conference, 2021
+  UConn REU Conference, 2021 [[paper](https://sites.google.com/view/umassmathreu/reports-2021?authuser=0)]
 - Hybrid Convolution and Deep Learning with Structured Covariates \
   **Genglin Liu**, Madalina Fiterau \
   Undergraduate Honors Thesis, 2022
