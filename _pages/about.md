@@ -55,7 +55,7 @@ Mentoring/Teaching Experiences
 
  - **Peer Mentor** \
    Fall 2019 - Fall 2022, UMass Amherst \
-   Worked to support over 170 first-year students in their transition to college life through academic mentoring and an in-hall curriculum, supporting the overall mission of Residential Life.
+   Worked to support over 170 first-year students in their transition to college life through individualized academic mentoring and an in-hall curriculum with planned monthly activities.
  - **Course Assistant** \
    Fall 2020 - Spring 2021, UMass CS Department \
    Assisted in both Algorithms and Discrete Mathematics classes for two semesters. Held weekly tutoring sessions, led discussion sessions, and graded assignments.
