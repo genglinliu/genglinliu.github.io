@@ -15,7 +15,6 @@ Research Interests
 -----
 My most recent research interest lies in studying the bahaviors of Large Language Models (LLMs) and mitigating the undesirable text generation such as hallucinated and harmful content. More broadly speaking, I am interested in many topics that are at the intersection of natural language processing, multimodal learning, and cognitive science. Ultimately I would like to build safer and more responsible AI agents that act in alignment to human values.
 
-My first-authored papers have appeared on ACL 23 workshop, and I have been involved in several projects that are in submission to NeurIPS 23, EMNLP 23, ACL Rolling Review, and the Journal of Neuroscience.
 
 Education
 -----
@@ -56,10 +55,17 @@ Mentoring/Teaching Experiences
 
  - **Peer Mentor** \
    Fall 2019 - Fall 2022, UMass Amherst \
-   Worked to support over 170 first-year students in their transition to college life through academic success mentoring and an in-hall curriculum, supporting the overall mission of Residential Life.
+   Worked to support over 170 first-year students in their transition to college life through academic mentoring and an in-hall curriculum, supporting the overall mission of Residential Life.
  - **Course Assistant** \
    Fall 2020 - Spring 2021, UMass CS Department \
-   Assisted in both Algorithms and Discrete Mathematics classes for two semesters. Held weekly tutoring sessions, led discussion sessions with graduate TAs, and graded assignments.
+   Assisted in both Algorithms and Discrete Mathematics classes for two semesters. Held weekly tutoring sessions, led discussion sessions, and graded assignments.
  - **Undergraduate Teaching Assistant** \
    Fall 2019 - Spring 2020, UMass Math Department \
-   TA for introductory calculus lectures. Led exam review sessions in front of 300 students. Held office hours regularly at the Calculus Tutoring Center.
+   Assisted in teaching introductory calculus lectures. Led exam review sessions in front of 300 students. Held office hours regularly at the Calculus Tutoring Center.
+
+Awards and Honors
+------
+- Chancellor’s Award at UMass Amherst \
+  Awarded a $56,000 academic scholarship in total over 4 years of full-time undergraduate study.
+- Bay State Fellowship at UMass Amherst \
+  Recipient of the Bay State Fellowship in 2022.
