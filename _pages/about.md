@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Genglin Liu"
-# excerpt: "About me"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About me
-=====
 
 Hi there! My name is Genglin Liu and I am a second-year Masters student in the CS department at Univeristy of Illinois Urbana-Champaign (UIUC). Previously I received B.S. in both Computer Science and Mathematics from University of Massachusetts, Amherst (UMass Amherst). I've worked as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html). Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by Prof. [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by Prof. [Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
 
@@ -32,7 +29,7 @@ Education
 Publications
 ------
 
-- Paxion: Patching Action Knowledge in Video-Language Foundation Models NeurIPS 2023 \
+- Paxion: Patching Action Knowledge in Video-Language Foundation Models \
   Zhenhailong Wang, Ansel Blume, Sha Li, **Genglin Liu**, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji \
   Preprint [Paper](https://arxiv.org/abs/2305.10683)
 - SemEval-2023 Task 3: An Augmented Multilingual NLI Approach Towards Online News Persuasion Techniques Detection. \
