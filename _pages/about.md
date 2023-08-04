@@ -65,7 +65,6 @@ Mentoring/Teaching Experiences
 
 Awards and Honors
 ------
-- Chancellor’s Award at UMass Amherst \
-  Awarded a $56,000 academic scholarship in total over 4 years of full-time undergraduate study.
-- Bay State Fellowship at UMass Amherst \
-  Recipient of the Bay State Fellowship in 2022.
+- College of Information and Computer Sciences Departmental Honors, 2022
+- Bay State Fellowship Recipient at UMass Amherst, 2022
+- Chancellor’s Award at UMass Amherst, 2018
