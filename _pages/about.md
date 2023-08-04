@@ -27,7 +27,7 @@ Education
 - University of Massachusetts, Amherst
   - B.S. in Computer Science, 2018-2022
   - B.S. in Mathematics, 2018-2022
-  - Degree Honors: Cum Laude, Commonwealth Honors Scholar with Greatest Distinction
+  - Degree Honors: Commonwealth Honors Scholar with Greatest Distinction
 
 Publications
 ------
