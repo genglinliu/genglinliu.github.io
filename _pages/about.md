@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Genglin Liu and I am a second-year Masters student in the CS department at Univeristy of Illinois Urbana-Champaign (UIUC). Previously I received B.S. in both Computer Science and Mathematics from University of Massachusetts, Amherst (UMass Amherst). I've worked as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html). Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by Prof. [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by Prof. [Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
+Hi there! My name is Genglin Liu and I am a second-year Masters student in the CS department at Univeristy of Illinois Urbana-Champaign. Previously I received B.S. in both Computer Science and Mathematics from University of Massachusetts, Amherst. I've worked as a graduate research assistant with Prof. [Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html). Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by Prof. [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by Prof. [Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
 
 
 Research Interests
