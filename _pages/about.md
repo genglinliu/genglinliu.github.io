@@ -20,7 +20,6 @@ Education
 -----
 - University of Illinois, Urbana-Champaign
   - Master in Computer Science, 2022-2023, advised by Prof. Heng Ji
-  - GPA: 3.8/4.0
 - University of Massachusetts, Amherst
   - B.S. in Computer Science, 2018-2022
   - B.S. in Mathematics, 2018-2022
@@ -47,7 +46,7 @@ Publications
   UConn REU Conference, 2021 [[paper](https://sites.google.com/view/umassmathreu/reports-2021?authuser=0)]
 - Hybrid Convolution and Deep Learning with Structured Covariates \
   **Genglin Liu**, Madalina Fiterau \
-  Undergraduate Honors Thesis, 2022
+  Undergraduate Honors Thesis, 2022 [[paper](https://genglinliu.github.io/files/Honors_Thesis_Genglin_Liu.pdf)]
 
 
 Mentoring/Teaching Experiences
