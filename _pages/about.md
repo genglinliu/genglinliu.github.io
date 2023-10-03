@@ -50,24 +50,24 @@ Publications
   Undergraduate Honors Thesis, 2022 [[paper](https://genglinliu.github.io/files/Honors_Thesis_Genglin_Liu.pdf)]
 
 
-Internships / Experiences
+Internships/Research Experiences
 ------
-Fall 2022 - Fall 2023: BLENDER NLP Lab, Urbana IL
+**Fall 2022 - Fall 2023**: BLENDER NLP Lab, Urbana IL
  - Graduate Research Assistant
  - Advisor: Heng Ji
  - Projects: Multimodal learning, multilingual-NLP
 
-Summer 2022: BLENDER NLP Lab, Urbana IL
+**Summer 2022**: BLENDER NLP Lab, Urbana IL
  - Research Intern 
  - Advisor: Heng Ji
  - Project: Multimedia misinformation detection
 
-Summer 2021, TRIPODS Institute for Theoretical Foundations of Data Science, Amherst MA 
+**Summer 2021**: TRIPODS Institute for Theoretical Foundations of Data Science, Amherst MA 
  - Research Intern
  - Advisor: Yulong Lu
  - Project: spectral properties and learnability of Neural Tangent Kernels with different activation functions
 
-Fall 2020 - Spring 2022: InfoFusion Lab, Amherst MA
+**Fall 2020 - Spring 2022**: InfoFusion Lab, Amherst MA
  - Undergrad Research Assistant 
  - Advisor: Ina Fiterau
  - Project: Hybrid convolutional neural networks which take visual and tabular data as multimodal input. (Undergraduate Honors Thesis)
