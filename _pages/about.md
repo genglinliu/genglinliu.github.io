@@ -11,6 +11,8 @@ redirect_from:
 
 Hi there! I am a second-year Masters student in the CS department at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/). Previously I received my undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I've worked as a graduate research assistant with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html), and [Prof. Hao Peng](https://haopeng-nlp.github.io/) at UIUC as well. Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
 
+*I am actively looking for PhD opportunities for Fall 2024.*
+
 
 Research Interests
 -----
@@ -29,7 +31,9 @@ Education
 
 Publications
 ------
-
+- Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown \
+  Genglin Liu, Xingyao Wang, Lifan Yuan, Yangyi Chen, Hao Peng \
+  Preprint 2023 [[paper](https://arxiv.org/abs/2311.09731)]
 - Paxion: Patching Action Knowledge in Video-Language Foundation Models \
   Zhenhailong Wang, Ansel Blume, Sha Li, **Genglin Liu**, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji \
   NeurIPS 2023, *Spotlight* [[Paper](https://arxiv.org/abs/2305.10683)]
@@ -44,10 +48,10 @@ Publications
   Preprint, 2023
 - Demystifying The Spectral Bias of Overparameterized Deep Neural Networks \
   **Genglin Liu**, Yulong Lu \
-  UConn REU Conference, 2021 [[paper](https://sites.google.com/view/umassmathreu/reports-2021?authuser=0)]
+  UConn REU Conference, 2021 [[technical report](https://sites.google.com/view/umassmathreu/reports-2021?authuser=0)]
 - Hybrid Convolution and Deep Learning with Structured Covariates \
   **Genglin Liu**, Madalina Fiterau \
-  Undergraduate Honors Thesis, 2022 [[paper](https://genglinliu.github.io/files/Honors_Thesis_Genglin_Liu.pdf)]
+  Undergraduate Honors Thesis, 2022 [[thesis manuscript](https://genglinliu.github.io/files/Honors_Thesis_Genglin_Liu.pdf)]
 
 
 Internships/Research Experiences
