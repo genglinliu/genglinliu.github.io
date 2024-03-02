@@ -11,8 +11,6 @@ redirect_from:
 
 Hi there! I am a second-year Masters student in the CS department at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/). Previously I received my undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I've worked as a graduate research assistant with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html), and [Prof. Hao Peng](https://haopeng-nlp.github.io/) at UIUC as well. Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
 
-*I am actively looking for PhD opportunities for Fall 2024.*
-
 
 Research Interests
 -----
@@ -22,7 +20,7 @@ My most recent research interest lies in studying the bahaviors of Large Languag
 Education
 -----
 - University of Illinois, Urbana-Champaign
-  - Master in Computer Science, 2022-2023, advised by Prof. Heng Ji
+  - Master in Computer Science, 2022-2023, advised by Prof. Heng Ji and Prof. Hao Peng
 - University of Massachusetts, Amherst
   - B.S. in Computer Science, 2018-2022
   - B.S. in Mathematics, 2018-2022
@@ -31,7 +29,7 @@ Education
 
 Publications
 ------
-- Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown \
+- Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge \
   Genglin Liu, Xingyao Wang, Lifan Yuan, Yangyi Chen, Hao Peng \
   Preprint 2023 [[paper](https://arxiv.org/abs/2311.09731)]
 - Paxion: Patching Action Knowledge in Video-Language Foundation Models \
@@ -56,6 +54,11 @@ Publications
 
 Internships/Research Experiences
 ------
+**Spring 2024 - Present**: Department of Computer Science, UIUC
+ - Research Assistant
+ - Advisor: Hao Peng
+ - Projects: Uncertainty Expression in Large Language Models
+
 **Fall 2022 - Fall 2023**: BLENDER NLP Lab, Urbana IL
  - Graduate Research Assistant
  - Advisor: Heng Ji
