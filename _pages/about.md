@@ -98,3 +98,8 @@ Awards and Honors
 - College of Information and Computer Sciences Departmental Honors, 2022
 - Bay State Fellowship Recipient at UMass Amherst, 2022 (declined)
 - Chancellor’s Award at UMass Amherst, 2018 ($56000)
+
+
+Service
+------
+ACL reviewer, 2024
