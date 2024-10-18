@@ -14,7 +14,7 @@ Hi there! I am a first-year PhD student in Computer Science, at [University of C
 
 Research Interests
 -----
-My most recent research interest lies in studying the bahaviors of Large Language Models (LLMs) and mitigating the undesirable text generation such as hallucinated and harmful content. More broadly speaking, I am interested in many topics that are at the intersection of natural language processing, multimodal agents, and cognitive science.
+I'm broadly interested in studying and evaluating Large Language Models, and mitigating the undesirable behaviors such as hallucinated and harmful content. Recently I've also been working on many topics relevant to simulation agents, scalable oversight, and cognitive architectures of LLMs.
 
 
 Education
