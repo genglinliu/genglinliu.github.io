@@ -9,16 +9,18 @@ redirect_from:
 ---
 
 
-Hi there! I am a second-year Masters student in the CS department at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/). Previously I received my undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I've worked as a graduate research assistant with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html), and [Prof. Hao Peng](https://haopeng-nlp.github.io/) at UIUC as well. Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
+Hi there! I am a first-year PhD student in Computer Science, at [University of California, Los Angeles](https://www.cs.ucla.edu/), advised by [Prof. Saadia Gabriel](https://saadiagabriel.com/). Previously I received my Master's degree in CS at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/), and undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I've worked as a graduate research assistant with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html), and [Prof. Hao Peng](https://haopeng-nlp.github.io/) at UIUC as well. Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
 
 
 Research Interests
 -----
-My most recent research interest lies in studying the bahaviors of Large Language Models (LLMs) and mitigating the undesirable text generation such as hallucinated and harmful content. More broadly speaking, I am interested in many topics that are at the intersection of natural language processing, multimodal agents, and cognitive science. Ultimately I would like to build safer and more responsible AI systems that act in alignment to human values.
+My most recent research interest lies in studying the bahaviors of Large Language Models (LLMs) and mitigating the undesirable text generation such as hallucinated and harmful content. More broadly speaking, I am interested in many topics that are at the intersection of natural language processing, multimodal agents, and cognitive science.
 
 
 Education
 -----
+- University of California, Los Angeles
+  - Ph.D. in Computer Science, 2024-present, advised by Prof. Saadia Gabriel
 - University of Illinois, Urbana-Champaign
   - Master in Computer Science, 2022-2023, advised by Prof. Heng Ji and Prof. Hao Peng
 - University of Massachusetts, Amherst
@@ -28,7 +30,12 @@ Education
 
 
 Publications
+
+For the most up to date list of publications, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Genglin-Liu/2217570953) profile.
 ------
+- SciCode: A Research Coding Benchmark Curated by Scientists \
+  Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, Genglin Liu, Yufeng Du, Tianhua Tao, Ofir Press, Jamie Callan, Eliu Huerta, Hao Peng
+  NeurIPS 2024 Datasets and Benchmarks track [[paper](https://arxiv.org/abs/2407.13168)]
 - Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge \
   Genglin Liu, Xingyao Wang, Lifan Yuan, Yangyi Chen, Hao Peng \
   Preprint 2023 [[paper](https://arxiv.org/abs/2311.09731)]
