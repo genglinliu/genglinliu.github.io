@@ -35,10 +35,10 @@ Publications
 For the most up to date list of publications, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Genglin-Liu/2217570953) profile.
 
 - SciCode: A Research Coding Benchmark Curated by Scientists \
-  Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, Genglin Liu, Yufeng Du, Tianhua Tao, Ofir Press, Jamie Callan, Eliu Huerta, Hao Peng
+  Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, **Genglin Liu**, Yufeng Du, Tianhua Tao, Ofir Press, Jamie Callan, Eliu Huerta, Hao Peng \
   NeurIPS 2024 Datasets and Benchmarks track [[paper](https://arxiv.org/abs/2407.13168)]
 - Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge \
-  Genglin Liu, Xingyao Wang, Lifan Yuan, Yangyi Chen, Hao Peng \
+  **Genglin Liu**, Xingyao Wang, Lifan Yuan, Yangyi Chen, Hao Peng \
   Preprint 2023 [[paper](https://arxiv.org/abs/2311.09731)]
 - Paxion: Patching Action Knowledge in Video-Language Foundation Models \
   Zhenhailong Wang, Ansel Blume, Sha Li, **Genglin Liu**, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji \
