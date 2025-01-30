@@ -9,13 +9,12 @@ redirect_from:
 ---
 
 
-Hi there! I am a first-year PhD student in Computer Science, at [University of California, Los Angeles](https://www.cs.ucla.edu/), advised by [Prof. Saadia Gabriel](https://saadiagabriel.com/). Previously I received my Master's degree in CS at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/), and undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I've worked as a graduate research assistant with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) at the [BLENDER Lab](http://blender.cs.illinois.edu/index.html), and [Prof. Hao Peng](https://haopeng-nlp.github.io/) at UIUC as well. Before that, I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
+Hi there! I am a first-year PhD student in Computer Science, at [University of California, Los Angeles](https://www.cs.ucla.edu/), advised by [Prof. Saadia Gabriel](https://saadiagabriel.com/). Previously I received my Master's degree in CS at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/), advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) and [Prof. Hao Peng](https://haopeng-nlp.github.io/). I received undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
 
 
 Research Interests
 -----
-I'm broadly interested in studying and evaluating Large Language Models, and mitigating the undesirable behaviors such as hallucinated and harmful content. Recently I've also been working on many topics relevant to simulation agents, scalable oversight, and cognitive architectures of LLMs.
-
+I'm broadly interested in Large Language Models. Most recently I've been working extensively on *multi-agent simulation systems* and *safety*-related topics. In the past I've worked on *benchmarking and evaluations* (NeurIPS 2024), *video-language models* (NeurIPS 2023), and *multilingual NLP* (ACL workshop 2023). I'm also interested in *post-training*, specifically alignment techniques that mitigate undesirable behaviors such as hallucination and algorithmic monoculture.
 
 Education
 -----
