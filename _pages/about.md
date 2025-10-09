@@ -35,28 +35,28 @@ For the most up to date list of publications, please refer to my [Google Scholar
 
 - MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations \
   **Genglin Liu**, Vivian Le, Salman Rahman, Elisa Kreiss, Marzyeh Ghassemi, Saadia Gabriel \
-  EMNLP 2025 (Oral) [[paper](https://arxiv.org/abs/2504.07830)]
+  EMNLP 2025 (Oral) [[paper](https://arxiv.org/abs/2504.07830)] \
 - WebCoach: Improve Browsing Agents with Memory-Aware Guidance for Better Web Navigation \
   **Genglin Liu** \
-  Blog Post [[blog](https://tinyurl.com/WebCoachMemory)]
+  Blog Post [[blog](https://tinyurl.com/WebCoachMemory)] \
 - AI Debate Aids Assessment of Controversial Claims \
   Salman Rahman, Sheriff Issaka, Ashima Suvarna, **Genglin Liu**, James Shiffer, Jaeyoung Lee, Md Rizwan Parvez, Hamid Palangi, Shi Feng, Nanyun Peng, Yejin Choi, Julian Michael, Liwei Jiang, Saadia Gabriel \
-  NeurIPS 2025 [[paper](https://arxiv.org/abs/2506.02175)]
+  NeurIPS 2025 [[paper](https://arxiv.org/abs/2506.02175)] \
 - X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents \
   Salman Rahman, Liwei Jiang, James Shiffer, **Genglin Liu**, Sheriff Issaka, Md Rizwan Parvez, Hamid Palangi, Kai-Wei Chang, Yejin Choi, Saadia Gabriel \
-  COLM 2025 [[paper project page](https://x-teaming.github.io/)]
+  COLM 2025 [[paper project page](https://x-teaming.github.io/)] \
 - SciCode: A Research Coding Benchmark Curated by Scientists \
   Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, **Genglin Liu**, Yufeng Du, Tianhua Tao, Ofir Press, Jamie Callan, Eliu Huerta, Hao Peng \
-  NeurIPS 2024 Datasets and Benchmarks track [[paper](https://arxiv.org/abs/2407.13168)]
+  NeurIPS 2024 Datasets and Benchmarks track [[paper](https://arxiv.org/abs/2407.13168)] \
 - Examining LLMs' Uncertainty Expression Towards Questions Outside Parametric Knowledge \
   **Genglin Liu**, Xingyao Wang, Lifan Yuan, Yangyi Chen, Hao Peng \
-  Preprint 2023 [[paper](https://arxiv.org/abs/2311.09731)]
+  Preprint 2023 [[paper](https://arxiv.org/abs/2311.09731)] \
 - Paxion: Patching Action Knowledge in Video-Language Foundation Models \
   Zhenhailong Wang, Ansel Blume, Sha Li, **Genglin Liu**, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji \
-  NeurIPS 2023, *Spotlight* [[Paper](https://arxiv.org/abs/2305.10683)]
+  NeurIPS 2023, *Spotlight* [[Paper](https://arxiv.org/abs/2305.10683)] \
 - An Augmented Multilingual NLI Approach Towards Online News Persuasion Techniques Detection \
   **Genglin Liu**, Yi R. Fung, Heng Ji \
-  Proceedings of the The 17th International Workshop on Semantic Evaluation [[paper](https://aclanthology.org/2023.semeval-1.227.pdf)]
+  Proceedings of the The 17th International Workshop on Semantic Evaluation [[paper](https://aclanthology.org/2023.semeval-1.227.pdf)] \
 
 
 Internships/Research Experiences
