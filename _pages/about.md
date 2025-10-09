@@ -14,7 +14,7 @@ Hi there! I am a 2nd-year PhD student in Computer Science, at [University of Cal
 
 Research Interests
 -----
-I'm broadly interested in Large Language Models and agentic systems powered by them. Most recently I've been working extensively on *multi-agent simulation systems* and *safety*-related topics. In the past I've worked on *benchmarking and evaluations* (NeurIPS 2024), *video-language models* (NeurIPS 2023), and *multilingual NLP* (ACL workshop 2023). I'm also interested in *post-training*, specifically alignment techniques that mitigate undesirable behaviors such as hallucination and algorithmic monoculture.
+I'm broadly interested in Large Language Models and agentic systems powered by them. Most recently I've been working extensively on web agents, self-evolving models, and memory mechanisms of LLM agents. During my PhD I've worked on *multi-agent simulation systems* (EMNLP 2025 Oral, NeurIPS 2025) and *LLM safety* (COLM 2025). In more distant past I've worked on *benchmarking and evaluations* (NeurIPS 2024), *video-language models* (NeurIPS 2023), and *multilingual NLP* (ACL workshop 2023).
 
 Education
 -----
