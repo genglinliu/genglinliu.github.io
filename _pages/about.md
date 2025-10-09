@@ -64,12 +64,10 @@ Internships/Research Experiences
 **Fall 2025**: Google Research
  - Student Researcher
  - Hosts: Jad Aboudiab, Krishna Viswanathan, Ariel Fuxman
- - Projects: LLM agent for Google ads safety
 
 **Summer 2025**: Amazon.com, Inc.
- - Applied Scientist Intern
+ - Applied Scientist Intern, Stores Foundational AI
  - Hosts: Shijie Geng, Zoey Li, Jimmy Liu
- - Projects: Web/GUI agent with long term memory
 
 **Fall 2024 - Present**: University of California, Los Angeles
  - Research Assistant
