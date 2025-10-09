@@ -31,7 +31,7 @@ Education
 Publications
 ------
 
-For the most up to date list of publications, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Genglin-Liu/2217570953) profile.
+For the most up to date list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=xTX3r0IAAAAJ&hl=en) profile.
 
 - MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations \
   **Genglin Liu**, Vivian Le, Salman Rahman, Elisa Kreiss, Marzyeh Ghassemi, Saadia Gabriel \
@@ -57,23 +57,26 @@ For the most up to date list of publications, please refer to my [Semantic Schol
 - An Augmented Multilingual NLI Approach Towards Online News Persuasion Techniques Detection \
   **Genglin Liu**, Yi R. Fung, Heng Ji \
   Proceedings of the The 17th International Workshop on Semantic Evaluation [[paper](https://aclanthology.org/2023.semeval-1.227.pdf)]
-- Schematic Event Representation: An Empirical Approach to Hierarchical Schema Curation \
-  Reece Suchocki, Mary Lynn Martin, **Genglin Liu**, Martha Palmer, Susan Brown \
-  Preprint, 2023
-- Forecasting Alzheimer’s Disease Two Years Ahead from Longitudinal Multimodal Data \
-  Sidong Zhang, Evan Fellman, James Ko, **Genglin Liu**, Madalina Fiterau  
-  Preprint, 2023
-- Demystifying The Spectral Bias of Overparameterized Deep Neural Networks \
-  **Genglin Liu**, Yulong Lu \
-  UConn REU Conference, 2021 [[technical report](https://sites.google.com/view/umassmathreu/reports-2021?authuser=0)]
-- Hybrid Convolution and Deep Learning with Structured Covariates \
-  **Genglin Liu**, Madalina Fiterau \
-  Undergraduate Honors Thesis, 2022 [[thesis manuscript](https://genglinliu.github.io/files/Honors_Thesis_Genglin_Liu.pdf)]
 
 
 Internships/Research Experiences
 ------
-**Spring 2024 - Present**: Department of Computer Science, UIUC
+**Fall 2025**: Google Research
+ - Student Researcher
+ - Hosts: Jad Aboudiab, Krishna Viswanathan, Ariel Fuxman
+ - Projects: LLM agent for Google ads safety
+
+**Summer 2025**: Amazon.com, Inc.
+ - Applied Scientist Intern
+ - Hosts: Shijie Geng, Zoey Li, Jimmy Liu
+ - Projects: Web/GUI agent with long term memory
+
+**Fall 2024 - Present**: University of California, Los Angeles
+ - Research Assistant
+ - Advisor: Saadia Gabriel
+ - Projects: LLM agents
+
+**Spring 2024**: Department of Computer Science, UIUC
  - Research Assistant
  - Advisor: Hao Peng
  - Projects: Uncertainty Expression in Large Language Models
@@ -115,8 +118,8 @@ Mentoring/Teaching Experiences
 Awards and Honors
 ------
 - College of Information and Computer Sciences Departmental Honors, 2022
-- Bay State Fellowship Recipient at UMass Amherst, 2022 (declined)
-- Chancellor’s Award at UMass Amherst, 2018 ($56000)
+- Bay State Fellowship Recipient at UMass Amherst, 2022
+- Chancellor’s Award at UMass Amherst, 2018
 
 
 Service
