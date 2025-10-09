@@ -37,7 +37,7 @@ For the most up to date list of publications, please refer to my [Google Scholar
   **Genglin Liu**, Vivian Le, Salman Rahman, Elisa Kreiss, Marzyeh Ghassemi, Saadia Gabriel \
   EMNLP 2025 (Oral) [[paper](https://arxiv.org/abs/2504.07830)]
 - WebCoach: Improve Browsing Agents with Memory-Aware Guidance for Better Web Navigation \
-  Genglin Liu \
+  **Genglin Liu** \
   Blog Post [[blog](https://tinyurl.com/WebCoachMemory)]
 - AI Debate Aids Assessment of Controversial Claims \
   Salman Rahman, Sheriff Issaka, Ashima Suvarna, **Genglin Liu**, James Shiffer, Jaeyoung Lee, Md Rizwan Parvez, Hamid Palangi, Shi Feng, Nanyun Peng, Yejin Choi, Julian Michael, Liwei Jiang, Saadia Gabriel \
