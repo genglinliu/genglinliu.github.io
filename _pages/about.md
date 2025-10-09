@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-Hi there! I am a first-year PhD student in Computer Science, at [University of California, Los Angeles](https://www.cs.ucla.edu/), advised by [Prof. Saadia Gabriel](https://saadiagabriel.com/). Previously I received my Master's degree in CS at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/), advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) and [Prof. Hao Peng](https://haopeng-nlp.github.io/). I received undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
+Hi there! I am a 2nd-year PhD student in Computer Science, at [University of California, Los Angeles](https://www.cs.ucla.edu/), advised by [Prof. Saadia Gabriel](https://saadiagabriel.com/). Previously I received my Master's degree in CS at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/), advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) and [Prof. Hao Peng](https://haopeng-nlp.github.io/). I received undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I worked at the [Information Fusion Lab](https://groups.cs.umass.edu/infofusion/) advised by [Prof. Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) and the TRIPODS Institute for Theoretical Foundations of Data Science at UMass Amherst advised by [Prof. Yulong Lu](https://sites.google.com/site/yulongmath/home?authuser=0) as a research intern.
 
 
 Research Interests
 -----
-I'm broadly interested in Large Language Models. Most recently I've been working extensively on *multi-agent simulation systems* and *safety*-related topics. In the past I've worked on *benchmarking and evaluations* (NeurIPS 2024), *video-language models* (NeurIPS 2023), and *multilingual NLP* (ACL workshop 2023). I'm also interested in *post-training*, specifically alignment techniques that mitigate undesirable behaviors such as hallucination and algorithmic monoculture.
+I'm broadly interested in Large Language Models and agentic systems powered by them. Most recently I've been working extensively on *multi-agent simulation systems* and *safety*-related topics. In the past I've worked on *benchmarking and evaluations* (NeurIPS 2024), *video-language models* (NeurIPS 2023), and *multilingual NLP* (ACL workshop 2023). I'm also interested in *post-training*, specifically alignment techniques that mitigate undesirable behaviors such as hallucination and algorithmic monoculture.
 
 Education
 -----
@@ -33,6 +33,18 @@ Publications
 
 For the most up to date list of publications, please refer to my [Semantic Scholar](https://www.semanticscholar.org/author/Genglin-Liu/2217570953) profile.
 
+- MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations \
+  **Genglin Liu**, Vivian Le, Salman Rahman, Elisa Kreiss, Marzyeh Ghassemi, Saadia Gabriel \
+  EMNLP 2025 (Oral) [[paper](https://arxiv.org/abs/2504.07830)]
+- WebCoach: Improve Browsing Agents with Memory-Aware Guidance for Better Web Navigation \
+  Genglin Liu \
+  Blog Post [[blog](https://tinyurl.com/WebCoachMemory)]
+- AI Debate Aids Assessment of Controversial Claims \
+  Salman Rahman, Sheriff Issaka, Ashima Suvarna, **Genglin Liu**, James Shiffer, Jaeyoung Lee, Md Rizwan Parvez, Hamid Palangi, Shi Feng, Nanyun Peng, Yejin Choi, Julian Michael, Liwei Jiang, Saadia Gabriel \
+  NeurIPS 2025 [[paper](https://arxiv.org/abs/2506.02175)]
+- X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents \
+  Salman Rahman, Liwei Jiang, James Shiffer, **Genglin Liu**, Sheriff Issaka, Md Rizwan Parvez, Hamid Palangi, Kai-Wei Chang, Yejin Choi, Saadia Gabriel \
+  COLM 2025 [[paper project page](https://x-teaming.github.io/)]
 - SciCode: A Research Coding Benchmark Curated by Scientists \
   Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, **Genglin Liu**, Yufeng Du, Tianhua Tao, Ofir Press, Jamie Callan, Eliu Huerta, Hao Peng \
   NeurIPS 2024 Datasets and Benchmarks track [[paper](https://arxiv.org/abs/2407.13168)]
