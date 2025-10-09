@@ -72,7 +72,6 @@ Internships/Research Experiences
 **Fall 2024 - Present**: University of California, Los Angeles
  - Research Assistant
  - Advisor: Saadia Gabriel
- - Projects: LLM agents
 
 **Spring 2024**: Department of Computer Science, UIUC
  - Research Assistant
