@@ -37,8 +37,8 @@ For the most up to date list of publications, please refer to my [Google Scholar
   **Genglin Liu**, Vivian Le, Salman Rahman, Elisa Kreiss, Marzyeh Ghassemi, Saadia Gabriel \
   EMNLP 2025 (Oral) [[paper](https://arxiv.org/abs/2504.07830)]
 - WebCoach: Improve Browsing Agents with Memory-Aware Guidance for Better Web Navigation \
-  **Genglin Liu** \
-  Blog Post [[blog](https://tinyurl.com/WebCoachMemory)]
+  **Genglin Liu**, Shijie Geng, Sha Li, Hejie Cui, Sarah Zhang, Xin Liu, Tianyi Liu \
+  Preprint [[paper](https://arxiv.org/abs/2511.12997)]
 - AI Debate Aids Assessment of Controversial Claims \
   Salman Rahman, Sheriff Issaka, Ashima Suvarna, **Genglin Liu**, James Shiffer, Jaeyoung Lee, Md Rizwan Parvez, Hamid Palangi, Shi Feng, Nanyun Peng, Yejin Choi, Julian Michael, Liwei Jiang, Saadia Gabriel \
   NeurIPS 2025 [[paper](https://arxiv.org/abs/2506.02175)]
@@ -64,10 +64,12 @@ Internships/Research Experiences
 **Fall 2025**: Google Research
  - Student Researcher
  - Hosts: Jad Aboudiab, Krishna Viswanathan, Ariel Fuxman
+ - Focus: vision-language model, automated red-teaming
 
 **Summer 2025**: Amazon.com, Inc.
  - Applied Scientist Intern, Stores Foundational AI
  - Hosts: Shijie Geng, Zoey Li, Jimmy Liu
+ - Focus: agent memory, web agent
 
 **Fall 2024 - Present**: University of California, Los Angeles
  - Research Assistant
@@ -76,7 +78,7 @@ Internships/Research Experiences
 **Spring 2024**: Department of Computer Science, UIUC
  - Research Assistant
  - Advisor: Hao Peng
- - Projects: Uncertainty Expression in Large Language Models
+ - Projects: Uncertainty estimation and calibration in Large Language Models
 
 **Fall 2022 - Fall 2023**: BLENDER NLP Lab, Urbana IL
  - Graduate Research Assistant
