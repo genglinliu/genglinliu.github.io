@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hi There"
-excerpt: "Hi There"
+title: "Genglin Liu's Homepage"
+excerpt: "Genglin Liu"
 author_profile: true
 redirect_from: 
   - /about/
