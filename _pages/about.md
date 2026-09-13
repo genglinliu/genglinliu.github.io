@@ -33,8 +33,8 @@ Publications
 For the most up to date list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=xTX3r0IAAAAJ&hl=en) profile.
 
 - Belief Cascades Drive Persuasion in LLM Agent Networks \
-  Haoyi Qiu^, **Genglin Liu**^, Pranav Narayanan Venkit, Kung-Hsiang Huang, Saadia Gabriel, Chien-Sheng Wu, Nanyun Peng \
-  ^Equal Contribution \
+  Haoyi Qiu*, **Genglin Liu***, Pranav Narayanan Venkit, Kung-Hsiang Huang, Saadia Gabriel, Chien-Sheng Wu, Nanyun Peng \
+  *Equal Contribution \
   Preprint 2026 [[paper](https://arxiv.org/abs/2608.25152)]
 - Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation \
   **Genglin Liu**, Muye Zhang, Krishnamurthy Viswanathan, Nichole J Hansen, Blaž Bratanič, Nathan L Clement, Shalini Ghosh, Ariel Fuxman \
