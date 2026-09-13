@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am a 3rd-year PhD student in Computer Science, at [University of California, Los Angeles](https://www.cs.ucla.edu/), advised by [Prof. Saadia Gabriel](https://saadiagabriel.com/). Previously I received my Master's degree in CS at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/), advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) and [Prof. Hao Peng](https://haopeng-nlp.github.io/). I received undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I've worked at Google as a Student Researcher from Fall 2025 to Summer 2026, and at Amazon as an Applied Scientist intern in Summer 2025.
+Hi there! I am a 3rd-year PhD student in Computer Science, at [University of California, Los Angeles](https://www.cs.ucla.edu/), advised by [Prof. Saadia Gabriel](https://saadiagabriel.com/). Previously I received my Master's degree in CS at [Univeristy of Illinois Urbana-Champaign](https://cs.illinois.edu/), advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html) and [Prof. Hao Peng](https://haopeng-nlp.github.io/). I received undergraduate degrees in both Computer Science and Mathematics from [University of Massachusetts, Amherst](https://www.cics.umass.edu/). I've worked at [Google](https://research.google/) as a Student Researcher from Fall 2025 to Summer 2026, and at [Amazon](https://www.amazon.science/) as an Applied Scientist intern in Summer 2025.
 
 
 Research Interests
@@ -33,7 +33,8 @@ Publications
 For the most up to date list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=xTX3r0IAAAAJ&hl=en) profile.
 
 - Belief Cascades Drive Persuasion in LLM Agent Networks \
-  Haoyi Qiu, **Genglin Liu***, Pranav Narayanan Venkit, Kung-Hsiang Huang, Saadia Gabriel, Chien-Sheng Wu, Nanyun Peng *Equal Contribution \
+  Haoyi Qiu*, **Genglin Liu***, Pranav Narayanan Venkit, Kung-Hsiang Huang, Saadia Gabriel, Chien-Sheng Wu, Nanyun Peng \
+  *Equal Contribution \
   Preprint 2026 [[paper](https://arxiv.org/abs/2608.25152)]
 - Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation \
   **Genglin Liu**, Muye Zhang, Krishnamurthy Viswanathan, Nichole J Hansen, Blaž Bratanič, Nathan L Clement, Shalini Ghosh, Ariel Fuxman \
