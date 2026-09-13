@@ -39,7 +39,7 @@ For the most up to date list of publications, please refer to my [Google Scholar
 - Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation \
   **Genglin Liu**, Muye Zhang, Krishnamurthy Viswanathan, Nichole J Hansen, Blaž Bratanič, Nathan L Clement, Shalini Ghosh, Ariel Fuxman \
   Preprint 2026 [[paper](https://arxiv.org/abs/2607.14256)]
-- PM-Bench: Evaluating Prospective Memory in LLM Agents
+- PM-Bench: Evaluating Prospective Memory in LLM Agents \
   **Genglin Liu**, Saadia Gabriel \
   COLM 2026 [[paper](https://arxiv.org/abs/2607.12385)]
 - MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations \
