@@ -124,6 +124,7 @@ Mentoring/Teaching Experiences
 
 Awards and Honors
 ------
+- UCLA Computer Science Fellowship, 2024
 - College of Information and Computer Sciences Departmental Honors, 2022
 - Bay State Fellowship Recipient at UMass Amherst, 2022
 - Chancellor’s Award at UMass Amherst, 2018
